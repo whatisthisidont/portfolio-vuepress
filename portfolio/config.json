@@ -6,8 +6,8 @@
   "favicon": "favicon-32x32.png",
   "navigation": [
     {
-      "text": "Works",
-      "link": "/",
+      "text": "About",
+      "link": "/about",
       "position": "left",
       "external": false
     },
