@@ -1,6 +1,7 @@
 ---
 works_index: true
-hero_text: "<strong>We're Acme</strong>, we work for brands. But most importantly, we work for fun."
+hero_text: "<strong>I'm Dion De Rossi</strong>, sexual empowerment guide, bodyworker
+  and sex witch."
 title: Hero
 
 ---
