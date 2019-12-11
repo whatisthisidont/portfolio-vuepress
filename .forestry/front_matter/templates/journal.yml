@@ -7,6 +7,12 @@ fields:
   label: Title
   hidden: false
   type: text
+- name: photo
+  type: file
+  config:
+    maxSize: '25'
+  description: This is the preview image for the post
+  label: Photo
 - type: textarea
   name: excerpt
   label: Excerpt
