@@ -3,7 +3,7 @@ title: Discovering Sexological Bodywork
 excerpt: The most common question I get from potential clients is always the same
   - 'What is Sexological Bodywork anyway?'
 date: 
-photo: ''
+photo: "/upload/ebc04d_7e4e467ab97c43fbafe3b8a2456ef105_mv2.webp"
 
 ---
 # Discovering Sexological Bodywork
