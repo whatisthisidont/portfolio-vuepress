@@ -83,7 +83,8 @@
 <style>
 
   :root {
-    --color-black: #1c1c1c;
+    // --color-black: #1c1c1c;
+    --color-black: #bd232d;
     --color-highlight: rgba(249, 233, 172, 0.99);
   }
 
