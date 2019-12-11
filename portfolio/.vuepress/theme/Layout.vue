@@ -111,7 +111,7 @@
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Noto Sans", "Ubuntu", "Droid Sans", "Helvetica Neue", sans-serif;
     font-size: 16px;
-    background: #fff;
+    background: #f6d8d4;
     color: var(--color-black);
   }
 
