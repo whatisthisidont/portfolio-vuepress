@@ -5,6 +5,10 @@ excerpt: The most common questions I get from potential clients are always the s
 date: 
 
 ---
+# Discovering Sexological Bodywork
+
+**The most common questions I get from potential clients are always the same - 'What is Sexological Bodywork anyway?' 'What happens if I have an orgasm?' 'Will I have to get naked?'**
+
 So many of you are curious about the type of work I do, but struggle to find information about what will happen in a session and if it's right for you. So I decided to create this hand guide to my favourite practice to help you get to know how Sexological Bodywork can benefit you!
 
 ![](https://static.wixstatic.com/media/ebc04d_7e4e467ab97c43fbafe3b8a2456ef105\~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_90/ebc04d_7e4e467ab97c43fbafe3b8a2456ef105\~mv2.webp)
